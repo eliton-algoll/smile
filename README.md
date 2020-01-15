@@ -1,4 +1,4 @@
-Este projeto foi feito com React Js, pois tive um imprevisto no quartel e portanto não achei que daria tempo de verificar a sintaxe e escopo do Vue para fazer este teste, visto que não tenho experiência com Vue e sim com React. Também não tive tempo de criar os testes automatizados, onde trabalho hoje, existem os "testadores" que são responsáveis somente para fazer os TDD's, portanto os programadores não costumam escrever os testes. Porém segue descrição de como foi feito.
+Este projeto foi feito com React Js.
 
 ## Iniciando a aplicação
 
